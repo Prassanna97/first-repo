@@ -1,2 +1,5 @@
 i just started with my project.
-will add more if i got something
+
+this is for pull request
+
+This is my first pull request
